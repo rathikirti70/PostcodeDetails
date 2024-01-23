@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostcCodeDetails", "PostcCodeDetails.csproj", "{7714419D-23DD-416E-9075-16D4B808A642}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostCodeDetailsTest", "..\PostCodeDetailsTest\PostCodeDetailsTest.csproj", "{ED1950CE-FC58-48ED-8A6C-FF21A3BAACB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7714419D-23DD-416E-9075-16D4B808A642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7714419D-23DD-416E-9075-16D4B808A642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7714419D-23DD-416E-9075-16D4B808A642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7714419D-23DD-416E-9075-16D4B808A642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1950CE-FC58-48ED-8A6C-FF21A3BAACB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1950CE-FC58-48ED-8A6C-FF21A3BAACB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1950CE-FC58-48ED-8A6C-FF21A3BAACB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1950CE-FC58-48ED-8A6C-FF21A3BAACB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D0E75B-D08D-4CEC-B900-13E6990F5969}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@PostcodeDetails_HostAddress = http://localhost:5122
+
+GET {{PostcodeDetails_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
